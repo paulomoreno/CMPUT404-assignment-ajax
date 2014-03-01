@@ -12,4 +12,9 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+- Contributions from Paulo H O Moreno (2014)
+
+- generateRandomColor() function designed by Anatoliy from StackOverflow (http://stackoverflow.com/questions/1484506/random-color-generator-in-javascript)
+
+
 
